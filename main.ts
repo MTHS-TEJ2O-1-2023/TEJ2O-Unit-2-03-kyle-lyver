@@ -9,4 +9,4 @@ basic.clearScreen()
 basic.pause(1000)
 
 basic.showString('A = ' + (5 * 3).toString())
-basic.showString('P = ' + (2 *(5 + 3)))
+basic.showString('P = ' + (2 * (5 + 3)))
